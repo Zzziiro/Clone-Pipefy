@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
-import { Container } from './styles';
+import { Container } from "./styles";
 
 export default function Header() {
   return (
     <Container>
-      <h1>Pipefy Clone</h1>
+      <h1>Zirofy</h1>
     </Container>
   );
 }
